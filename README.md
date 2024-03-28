@@ -1,12 +1,11 @@
-## Env
+# Algorithm Selection for Btor2 Circuit
 
-```
-python 3.11.8
-conda install -p /home/hugh/formal/btor-algo-select/.conda requests --update-deps --force-reinstall
-```
+You can firstly scan through the [ipython notebook](main.ipynb) to get an overview of the preliminary experiments.
 
-## Steps
-
-1. git pull submodules, to get the btor2 files. build btor2c as in its README
-2. Optional: run the 
-3. build btor2c
+Steps:
+1. install `python3` and related packages
+2. init submodules.
+   1. The btor2 benchmark is over 1G, be patient.  
+   2. Further build btor2c as in its README
+3. follow the steps in the notebook
+   1. You may need to change the proxy settings in the notebook
