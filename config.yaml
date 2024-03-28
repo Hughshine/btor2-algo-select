@@ -1,2 +1,3 @@
-dataset:
-  directory: word-level-hwmc-benchmarks/bv/btor2/
+path:
+  dataset: word-level-hwmc-benchmarks/bv/btor2/
+  btor2c: btor2c/build/btor2c

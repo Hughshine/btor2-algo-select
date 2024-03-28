@@ -2,6 +2,7 @@
 *.pickle
 labels/
 !labels/.gitkeep
+runs.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

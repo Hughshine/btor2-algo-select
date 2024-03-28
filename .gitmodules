@@ -1,3 +1,9 @@
 [submodule "word-level-hwmc-benchmarks"]
 	path = word-level-hwmc-benchmarks
 	url = https://gitlab.com/sosy-lab/research/data/word-level-hwmc-benchmarks.git
+[submodule "btor2c"]
+	path = btor2c
+	url = https://gitlab.com/sosy-lab/software/btor2c.git
+[submodule "pySVRanker"]
+	path = pySVRanker
+	url = https://github.com/cedricrupb/pySVRanker.git
