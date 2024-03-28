@@ -1,6 +1,8 @@
 # Algorithm Selection for Btor2 Circuit
 
-You can firstly scan through the [ipython notebook](main.ipynb) to get an overview of the preliminary experiments.
+This repository contains initial experiments on algorithm selection for Btor2 circuit verification.
+
+You can firstly scan through the [ipython notebook](main.ipynb) to get an overview of it.
 
 Steps:
 1. install `python3` and related packages
